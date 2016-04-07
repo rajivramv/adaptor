@@ -1,0 +1,26 @@
+{
+  "name": "adaptor",
+  "version": "0.1.0",
+  "description": "Abstracts application layer protcols of the OSI model",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajivramv/adaptor.git"
+  },
+  "keywords": [
+    "abstraction",
+    "OSI",
+    "application",
+    "layer",
+    "protocols"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajivramv/adaptor/issues"
+  },
+  "homepage": "https://github.com/rajivramv/adaptor",
+  "author": "Rajiv Ram V (rajivram.v@gmail.com)"
+}
